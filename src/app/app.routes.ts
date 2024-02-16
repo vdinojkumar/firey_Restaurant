@@ -1,3 +1,11 @@
-import { Routes } from '@angular/router';
+import { RouterModule, Routes } from '@angular/router';
+import { NgModule } from '@angular/core';
+import { ViewOrdersComponent } from './order/component/view-orders/view-orders.component';
+import { SliderComponent } from '../components/slider/slider.component';
+import { PlaceOrderComponent } from './order/component/place-order/place-order.component';
 
-export const routes: Routes = [];
+export const routes: Routes = [
+    {path:'menu',component:ViewOrdersComponent},
+    {path:'',component:SliderComponent},
+    {path:'ordersummary',component:PlaceOrderComponent}
+];
