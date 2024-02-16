@@ -1,46 +1,52 @@
 {
-    "vieworder": [
+    "Items": [
         {
             "id": "1",
             "name": "Vegmomos",
             "price": 320,
             "img": "../../../../assets/images/about-thumb-01.jpg",
-            "desc": "tasty veg momosr"
+            "desc": "tasty veg momosr",
+            "numberOfItems":1
         },
         {
             "id": "2",
             "name": "browny",
             "price": 600,
             "img": "../../../../assets/images/about-thumb-02.jpg",
-            "desc": "delicious browny"
+            "desc": "delicious browny",
+            "numberOfItems":1
         },
         {
             "id": "3",
             "name": "Veg momos",
             "price": 320,
             "img": "../../../../assets/images/about-thumb-03.jpg",
-            "desc": "tasty veg momosr"
+            "desc": "tasty veg momosr",
+            "numberOfItems":1
         },
         {
             "id": "4",
             "name": "Browny",
             "price": 600,
             "img": "../../../../assets/images/menu-item-01.jpg",
-            "desc": "delicious browny"
+            "desc": "delicious browny",
+            "numberOfItems":1
         },
         {
             "id": "5",
             "name": "Pancake",
             "price": 920,
             "img": "../../../../assets/images/menu-item-02.jpg",
-            "desc": "tasty veg cheese burger"
+            "desc": "tasty veg cheese burger",
+            "numberOfItems":1
         },
         {
             "id": "6",
             "name": "Crispy rolls",
             "price": 450,
             "img": "../../../../assets/images/menu-item-03.jpg",
-            "desc": "tasty veg cheese burger"
+            "desc": "tasty veg cheese burger",
+            "numberOfItems":1
         }
     ],
     "orders": [{
@@ -54,14 +60,16 @@
                 "name": "browny",
                 "price": 600,
                 "img": "../../../../assets/images/about-thumb-02.jpg",
-                "desc": "delicious browny"
+                "desc": "delicious browny",
+                "numberOfItems":1
             },
             {
                 "id": "5",
                 "name": "Pancake",
                 "price": 920,
                 "img": "../../../../assets/images/menu-item-02.jpg",
-                "desc": "tasty veg cheese burger"
+                "desc": "tasty veg cheese burger",
+                "numberOfItems":1
             }
         ],
         "orderTotal": 35,
@@ -79,14 +87,16 @@
                 "name": "Vegmomos",
                 "price": 320,
                 "img": "../../../../assets/images/about-thumb-01.jpg",
-                "desc": "tasty veg momosr"
+                "desc": "tasty veg momosr",
+                "numberOfItems":1
             },
             {
                 "id": "2",
                 "name": "browny",
                 "price": 600,
                 "img": "../../../../assets/images/about-thumb-02.jpg",
-                "desc": "delicious browny"
+                "desc": "delicious browny",
+                "numberOfItems":1
             }
         ],
         "orderTotal": 24,

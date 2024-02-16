@@ -150,3 +150,15 @@ a:hover{
     background-position-x: 95%;
     background-position-y: center;
 }
+
+.desc{
+    color: grey;
+}
+
+.text-muted{
+    font-weight: 700;
+}
+
+.space{
+    padding:0px 70px 70px 70px;
+}

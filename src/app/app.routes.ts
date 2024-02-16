@@ -5,7 +5,7 @@ import { SliderComponent } from '../components/slider/slider.component';
 import { PlaceOrderComponent } from './order/component/place-order/place-order.component';
 
 export const routes: Routes = [
-    {path:'menu',component:ViewOrdersComponent},
+    {path:'items',component:ViewOrdersComponent},
     {path:'',component:SliderComponent},
     {path:'ordersummary',component:PlaceOrderComponent}
 ];
